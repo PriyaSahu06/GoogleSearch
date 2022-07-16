@@ -19,7 +19,7 @@
 	</build>
 	<packaging>jar</packaging>
 
-  <name>Selenium.Java.POM.TestNG.Parallel</name>
+  <name>Selenium.Java</name>
   <url>http://maven.apache.org</url>
 
   <properties>
